@@ -1,0 +1,43 @@
+html{
+    /* background-color: #333333; */
+}
+.Form{
+    /* background-color: #333333; */
+    box-sizing: calc(10,10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    margin-left: 200px;
+
+    
+}
+form{
+    background:white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    padding: 30px  70px  30px  70px;
+    margin-top: -200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+input{
+    width: 220px;
+    height: 27px;
+    margin: 3px;
+}
+Button{
+    margin-top: 20px;
+    
+
+}
+section{
+    margin-top: 30px;
+    margin-left: 300px;
+    padding: 30px  70px  30px  70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
